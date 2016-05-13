@@ -1,4 +1,4 @@
-# ipinfo-for-slack
+# hostlookup-for-slack
 
 Custom slash command to use find DNS records for a domain. 
 
