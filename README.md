@@ -1,4 +1,4 @@
-# hostlookup-for-slack
+## hostlookup-for-slack
 
 Custom slash command to use find DNS records for a domain. 
 
@@ -23,3 +23,7 @@ Custom slash command to use find DNS records for a domain.
 
 This is built off of the work of isitup-for-slack. Check out their stuff:
 https://github.com/mccreath/isitup-for-slack/
+
+## WARNING
+
+Programing might be science; but that's not what I do. I'm a hacker, not a programmer.
